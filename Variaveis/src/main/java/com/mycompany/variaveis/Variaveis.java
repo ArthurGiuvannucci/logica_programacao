@@ -24,7 +24,7 @@ public class Variaveis {
         System.out.println(",amo programar");/* println: pula linha 
         Printi: não pula linha, então se vc escrever dois comandos, eles iram sair tudo na mesma lina*/
         
-        // Ciação de varáiveis
+        // Criação de varáiveis
         int idade = 17;// valor interio
         double altura = 1.76;// valor  decimal grade
         float peso = 70;// valor deciaml pequeno
