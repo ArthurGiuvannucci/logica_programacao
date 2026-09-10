@@ -30,10 +30,10 @@ public class Exemplo3 {
         
         //Avaliando as idades
         if (idadeP1>idadeP2 || idadeP1<idadeP3){
-            System.out.println("Pessoa 1 ganha um brind ");
-        } if(idadeP2>idadeP1 || idadeP2<idadeP3) {
+            System.out.println("Pessoa 1 ganha um brinde ");
+        } if(idadeP2>idadeP1 && idadeP2<idadeP3) {
             System.out.println("Pessoa 2 ganha um brinde");
-        } if (idadeP3<idadeP1 || idadeP3<idadeP1 && idadeP2>idadeP1){
+        } if ((idadeP3<idadeP1 || idadeP3<idadeP2) && idadeP2>idadeP1){
             System.out.println("Pessoa 3 ganha um brind ");
         }
             

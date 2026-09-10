@@ -23,7 +23,7 @@ public class Questao_5 {
         if (idade >= 18) {
             System.out.println("Voce e maior de idade: True");
         } else {
-            System.out.println("Voce e maior de idade: False");
+            System.out.println("Voce e menor de idade: False");
         }
 
        
